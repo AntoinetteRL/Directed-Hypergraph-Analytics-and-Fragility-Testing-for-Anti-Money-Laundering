@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper and the Elliptic++ dataset."
+title: "Directed-Hypergraph Analytics and Fragility Testing for Anti-Money Laundering"
+authors:
+  - family-names: Li
+    given-names: Run
+  - family-names: Laux
+    given-names: Paul

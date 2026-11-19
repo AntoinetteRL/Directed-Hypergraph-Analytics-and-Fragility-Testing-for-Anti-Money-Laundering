@@ -1,0 +1,10 @@
+motif_type,first_failure_stage,motifs
+1,100%,5241
+1,No failure,90
+2,50%,17666
+2,100%,2747
+2,No failure,39
+3,33%,51822
+3,67%,4403
+3,100%,440
+3,No failure,844
